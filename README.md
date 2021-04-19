@@ -1,5 +1,5 @@
 - 👋 Hi, I’m HEMANT BORA @HemantHunt.
-          Web Developer based in INDIA.
+          Full-Stack Web Developer based in INDIA.
           
  👀 I’m interested in Web development, Gaming and Game Development, Animation and Rigging, ...
           I like to work on React and NodeJS
