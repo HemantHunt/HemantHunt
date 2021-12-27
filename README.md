@@ -11,7 +11,7 @@
           React, Material Design,
     
           
- 👀 I'm working in Software development and to keep myself creative I dabble in Gaming and Game Development, Animation and Rigging, ...
+ 👀 I'm in Software development and to keep myself creative I dabble in Gaming and Game Development, Animation and Rigging, ...
           
       I’m currently learning Nest JS.
       
