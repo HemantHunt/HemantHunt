@@ -1,10 +1,19 @@
 - 👋 Hi, I’m HEMANT BORA @HemantHunt.
-          Full-Stack Web Developer based in INDIA.
+          Full-Stack Developer based in INDIA.
           
- 👀 I’m interested in Web development, Gaming and Game Development, Animation and Rigging, ...
-          I like to work on React and NodeJS
+    Proficient in Backend skills :
+         Node Js, Express,   
+         REST API, Database Design,
+         MongoDB, PostgreSQL, 
+         
+    Wherein Frontend skills :
+          HTML, CSS, Bootstrap,
+          React, Material Design,
+    
           
-      I’m currently learning Next JS.
+ 👀 I'm working in Software development and to keep myself creative I dabble in Gaming and Game Development, Animation and Rigging, ...
+          
+      I’m currently learning Nest JS.
       
       
   📫 Mail on hunterheman@gmail.com to get me.
