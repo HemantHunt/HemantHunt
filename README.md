@@ -12,11 +12,9 @@
     
           
  👀 I'm in Software development and to keep myself creative I dabble in Gaming and Game Development, Animation and Rigging, ...
-          
-      I’m currently learning Nest JS.
       
       
-  📫 Mail on hunterheman@gmail.com to get me.
+  📫 Mail on henantborah.dev@gmail.com to get me.
 
 <!---
 HemantHunt/HemantHunt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
